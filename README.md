@@ -3,8 +3,9 @@
 I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
 <i>Languages and Tools:</i>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javascript-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/typescript-original.svg"/>
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
