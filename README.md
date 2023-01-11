@@ -5,8 +5,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 <p>- Have learned to ❤️ React.</p>
 <p>- 🤔 Currently getting my head around Typescript.</p>
 
-![image](https://user-images.githubusercontent.com/110406695/211776603-b68cd748-702b-4316-9bad-eb8d3ce58bc7.png)
-
+<img width=400 src="https://user-images.githubusercontent.com/110406695/211776603-b68cd748-702b-4316-9bad-eb8d3ce58bc7.png"/>
 
 <hr/>
 <b><i>Languages and Tools:</i></b>
