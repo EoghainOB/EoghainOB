@@ -2,8 +2,9 @@
 
 I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
-<b><i>Languages and Tools:</i></b>
 <hr/>
+<b><i>Languages and Tools:</i></b>
+
 <div id="code">
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -18,8 +19,9 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 </div>
 
 <br/>
-<b><i>Where to find me</i></b>
 <hr/>
+
+<b><i>Where to find me</i></b>
 <div id="badges">
   <a href="https://github.com/EoghainOB">
     <img src="https://img.shields.io/badge/gitHub-blue?style=for-the-badge&logo=gitHub&logoColor=white" alt="GitHub Badge"/>
