@@ -2,8 +2,11 @@
 
 I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
-<p>- 🤔 Currently getting my head around Typescript.</p>
 <p>- Have learned to ❤️ React.</p>
+<p>- 🤔 Currently getting my head around Typescript.</p>
+
+![image](https://user-images.githubusercontent.com/110406695/211776603-b68cd748-702b-4316-9bad-eb8d3ce58bc7.png)
+
 
 <hr/>
 <b><i>Languages and Tools:</i></b>
@@ -11,7 +14,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 <br/>
 <br/>
 
-<div id="code">
+<div>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
