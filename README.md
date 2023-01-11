@@ -4,7 +4,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 
 <hr/>
 <b><i>Languages and Tools:</i></b>
-<br/>
+
 <br/>
 
 <div margin-top=20 id="code">
@@ -20,7 +20,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 </div>
 
-<hr/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoghainob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
