@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+I am Eoghain, full stack Javascript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/eoghain-o-briain/">
