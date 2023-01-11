@@ -22,6 +22,10 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 
 <hr/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoghainob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
+
 <b><i>Where to find me:</i></b>
 <div id="badges">
   <a href="https://github.com/EoghainOB">
