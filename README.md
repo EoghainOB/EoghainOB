@@ -2,6 +2,9 @@
 
 I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
+<p>- 🤔 Currently getting my head around Typescript.</p>
+<p>- Have learned to ❤️ React.</p>
+
 <hr/>
 <b><i>Languages and Tools:</i></b>
 
