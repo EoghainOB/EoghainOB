@@ -4,6 +4,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 
 <hr/>
 <b><i>Languages and Tools:</i></b>
+<br/>
 
 <div id="code">
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -21,7 +22,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
 <br/>
 <hr/>
 
-<b><i>Where to find me</i></b>
+<b><i>Where to find me:</i></b>
 <div id="badges">
   <a href="https://github.com/EoghainOB">
     <img src="https://img.shields.io/badge/gitHub-blue?style=for-the-badge&logo=gitHub&logoColor=white" alt="GitHub Badge"/>
