@@ -1,9 +1,8 @@
 ### Hello 👋
 
-I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
+I am Eoghain, a full stack Javascript/Typescript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
-<p>- Have learned to ❤️ React.<br>
-- 🤔 Currently getting my head around Typescript.</p>
+I love working with React together with APIs and Databases such as MongoDB and SQLite. I am happiest creating the front end but in the past weeks I have been getting more and more into the backend, working with authentication and encryption. I like to expand my knowledge even if it means getting way out of my comfort zone.
 
 <img width=400 src="https://user-images.githubusercontent.com/110406695/211776603-b68cd748-702b-4316-9bad-eb8d3ce58bc7.png"/>
 
@@ -23,6 +22,7 @@ I am Eoghain, a full stack Javascript developer originally from Ireland 🇮🇪
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 </div>
 
