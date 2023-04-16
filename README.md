@@ -1,4 +1,4 @@
-### Hello 👋
+# Hello 👋
 
 I am Eoghain, a full stack Javascript/Typescript developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
@@ -6,11 +6,7 @@ I love working with React together with APIs and Databases such as MongoDB and S
 
 <img width=400 src="https://user-images.githubusercontent.com/110406695/211776603-b68cd748-702b-4316-9bad-eb8d3ce58bc7.png"/>
 
-<hr/>
-<b><i>Languages and Tools:</i></b>
-
-<br/>
-<br/>
+## Languages and Tools
 
 <div>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -31,9 +27,7 @@ I love working with React together with APIs and Databases such as MongoDB and S
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EoghainOB"/>
 
-<hr/>
-
-<b><i>Where to find me:</i></b>
+## Where to find me
 <div id="badges">
   <a href="https://github.com/EoghainOB">
     <img src="https://img.shields.io/badge/gitHub-blue?style=for-the-badge&logo=gitHub&logoColor=white" alt="GitHub Badge"/>
