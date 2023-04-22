@@ -20,8 +20,9 @@ I love working with `React` together with APIs created using `Express` and Datab
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"/>
     <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
     <img height=40 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+    <img height=40 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
 </div>
 
 <br/>
