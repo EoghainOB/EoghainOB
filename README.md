@@ -2,7 +2,7 @@
 
 My name is Eoghain, and I am a full stack `Javascript`/`Typescript` developer originally from Ireland 🇮🇪, living in the Netherlands 🇳🇱.
 
-I love working with `React` together with APIs created using `Express` and Databases such as `MongoDB` and `SQLite`. I am happiest creating the front end but in the past weeks I have been getting more and more into the backend, working with authentication and encryption. I like to expand my knowledge even if it means getting way out of my comfort zone.
+I love working with `React` together with APIs created using `Express` and Databases such as `MongoDB` and `SQLite`. I am happiest creating the front end but in the past weeks I have been getting more and more into the backend, working with authentication and encryption. I like to expand my knowledge even if it means getting out of my comfort zone.
 
 ## Languages and Tools
 
