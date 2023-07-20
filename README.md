@@ -30,7 +30,7 @@ I love working with `React` together with APIs created using `Express` and Datab
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EoghainOB"/>
 
-## Where to find me
+## Where to find me 
 <div id="badges">
   <a href="https://github.com/EoghainOB">
     <img src="https://img.shields.io/badge/gitHub-blue?style=for-the-badge&logo=gitHub&logoColor=white" alt="GitHub Badge"/>
