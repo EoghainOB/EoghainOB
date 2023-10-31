@@ -4,6 +4,8 @@ My name is Eoghain, and I am a full stack / front end `Javascript`/`Typescript` 
 
 I love working with `React` or `Vue` together with APIs created using `Express` and Databases such as `MongoDB` and `SQLite`. I am happiest creating the front end but in the past weeks I have been getting more and more into the backend, working with authentication and encryption. I like to expand my knowledge even if it means getting out of my comfort zone.
 
+You can view my portfolio here: <a href="https://www.eoghain.com">`www.eoghain.com`</a>
+
 ## Languages and Tools
 
 <div>
